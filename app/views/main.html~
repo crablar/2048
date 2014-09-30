@@ -1,0 +1,3 @@
+<div id="content" ng-controller='GameController as ctrl'>
+	<!-- ctrl refers to the GameControlelr -->
+</div>
